@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head>
+ 	<tittle><h1> Formularios</h1></tittle>
+ 	<input type="text" name="Digite seu nome">
+ 	<input type="RADIO" name="Masculino">
+ 	<input type="RADIO" name="Ferminino">
+ 	<div>
+ 	</div>
+ 	<input type="checkbox" name="Feminino">
+ 	<div></div>
+ 	<input type="email" name="Digite seu email">
