@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <head> 
+  <meta charset="UTF-08">
+  <meta name="Autor" content="Gaspar Souza">
+  <meta name="descrição!" content="Esta pagina refere-se a atividade proposta em sala">
+  <tittle><h1>Pagina</tittle></h1> 
+  <nav> 
+  	<ul>
+
+  <li><tittle><h2> <h2> <p> Para visualização de pagina com fotos de the withcer 3, acesse: <a href="file:///C:/Users/Gaspar/Pictures/Minhas%20Imagens/HTML%20IMAGENS.html"> TheWithcer fotos</a> </p></h2>
+
+  	<li><tittle><h2><p> Para visualização da pagina dos primeiros exercicio acesse: <a href="file:///C:/Users/Gaspar/Documents/html%20pratica.html">Primeiros exercicios</a> </p> </h2></tittle></li>
+
+  	<li><h2> <p> Para visualização de fotos sobre the withcer 3, acesse: <a href="file:///C:/Users/Gaspar/Pictures/Minhas%20Imagens/HTML%20IMAGENS.html"> The Withcer 3</a> </p></h2></li>
+
+  	<li><h2><P> Para aessar a pagina de relatorios acesse: <a href="file:///C:/Users/Gaspar/Pictures/Minhas%20Imagens/HTML%20FORMULARIOS.html"> Relatorios </a></P></h2></li>
+ </head>
+
+ <body> 
+ 
+</body>
